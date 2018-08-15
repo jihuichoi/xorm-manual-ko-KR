@@ -1,4 +1,4 @@
-## Transaction
+## 트랜잭션(Transaction)
 
 ```Go
 session := engine.NewSession()
