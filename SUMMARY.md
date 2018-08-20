@@ -4,7 +4,7 @@
     * [엔진](chapter-01/1.engine.md)
     * [엔진 그룹](chapter-01/2.engine_group.md)
     * [그룹 정책](chapter-01/3.policy.md)
-* [struct 정의](chapter-02/README.md)
+* [구조체 정의](chapter-02/README.md)
     * [이름 매핑 규칙](chapter-02/1.mapping.md)
     * [접두사/접미사](chapter-02/2.prefix.md)
     * [태그](chapter-02/3.tags.md)

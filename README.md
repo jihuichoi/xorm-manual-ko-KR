@@ -15,7 +15,7 @@ Xorm 은 Go 언어용으로 개발된 단순하지만 강력한 ORM 도구입니
 
 * 쿼리 캐시를 이용한 속도 향상
 
-* 데이터베이스 리버스 지원, [Xorm Tool README](https://github.com/go-xorm/cmd/blob/master/README.md) 참조
+* 데이터베이스 리버스 지원, [Xorm Tool README](https://github.com/jihuichoi/xorm-manual-ko-KR/tree/master/chapter-14) 참조
 
 * 단순 케스케이드 불러오기 지원
 
@@ -24,8 +24,7 @@ Xorm 은 Go 언어용으로 개발된 단순하지만 강력한 ORM 도구입니
 
 # 지원하는 DB 드라이버 목록
 
-현재 지원하는 데이터베이스/sql Go 패키지 드라이버 <sup>FIXME!</sup>
-<!-- FIXME: Drivers for Go's sql package which currently support database/sql includes: -->
+현재 지원하는 데이터베이스용 Go sql 드라이버 패키지
 
 * Mysql: [github.com/go-sql-driver/mysql](https://github.com/go-sql-driver/mysql)
 
