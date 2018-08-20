@@ -1,4 +1,4 @@
-# Cases
+# 사용 사례
 
 * [Gorevel](http://http://gorevel.cn/) - [github.com/goofcc/gorevel](http://github.com/goofcc/gorevel)
 
